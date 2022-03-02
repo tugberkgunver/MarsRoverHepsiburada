@@ -9,6 +9,7 @@ The position is made up of two integers and a letter separated by spaces, corres
 
 **Test Input**
 ```
+5 5
 1 2 N 
 LMLMLMLMM 
 3 3 E 
